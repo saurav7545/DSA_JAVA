@@ -20,16 +20,9 @@ This syllabus is designed to build a strong foundation in Data Structures and Al
 * Basic programming knowledge (C++ / Java / Python)
 * Understanding of variables, loops, and functions
 
----
 
-## 4. Course Duration
 
-**Total Duration:** 4–6 Months
-**Recommended Effort:** 2–3 hours per day
-
----
-
-## 5. Module-wise Syllabus
+## < Module-wise Syllabus >
 
 ### Module 1: Introduction to Algorithms
 
