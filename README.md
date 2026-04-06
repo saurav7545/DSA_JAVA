@@ -63,3 +63,4 @@ This repository documents my structured preparation for Data Structures and Algo
 
 
 ## Repository Structure
+[Open DSA Syllabus](SYLLABUS/Syllabus.txt)
