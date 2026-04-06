@@ -14,44 +14,14 @@ This repository documents my structured preparation for Data Structures and Algo
 ---
 
 ## Tech Stack
-- Language: C++ / Java / Python
+- Language: java
 - Platforms: LeetCode, GeeksforGeeks, CodeStudio, Codeforces
 
 ---
 
-## Progress Tracker
 
-| Topic                  | Status       | Problems Solved |
-|-----------------------|--------------|-----------------|
-| Arrays                | In Progress  | 0               |
-| Strings               | Not Started  | 0               |
-| Linked List           | Not Started  | 0               |
-| Stack                 | Not Started  | 0               |
-| Queue                 | Not Started  | 0               |
-| Hashing               | Not Started  | 0               |
-| Binary Search         | Not Started  | 0               |
-| Trees                 | Not Started  | 0               |
-| Graphs                | Not Started  | 0               |
-| Heap / Priority Queue | Not Started  | 0               |
-| Dynamic Programming   | Not Started  | 0               |
 
----
 
-## Problem Solving Approach
-
-For each problem, the following structure is maintained:
-
-- Problem Name  
-- Platform Link  
-- Difficulty Level  
-- Approach / Intuition  
-- Time Complexity  
-- Space Complexity  
-- Key Learnings  
-
----
-
-## Topics Covered
 
 ### 1. Arrays
 - Traversal
@@ -90,18 +60,6 @@ For each problem, the following structure is maintained:
 
 ---
 
-## Daily Practice Routine
-- Solve 2–3 problems daily
-- Revise previously solved problems
-- Focus on understanding patterns and optimization
 
----
-
-## Goals
-- Solve 300+ DSA problems
-- Strengthen core concepts
-- Crack technical interviews at top tech companies
-
----
 
 ## Repository Structure
